@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ml.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://ml.komayo.page/img/beautiful-woman-kimono-boat-ganges-varanasi-full-moon-ink-drawing,w_1024.webp</image:loc>
+      <image:title>വാരാണസിയിലെ ഗംഗാ നദിയിൽ, പൂർണചന്ദ്രന് കീഴിൽ വള്ളത്തിൽ കിമോണോ ധരിച്ച സുന്ദരിയുടെ മഷിചിത്രം</image:title>
+      <image:caption>വാരാണസിയിലെ ഗംഗാ നദിയിൽ, പൂർണചന്ദ്രന് കീഴിൽ വള്ളത്തിൽ കിമോണോ ധരിച്ച സുന്ദരിയുടെ മഷിചിത്രം</image:caption>
+    </image:image>
   </url>
 </urlset>
